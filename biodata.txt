@@ -1,2 +1,5 @@
 Nama   :  Rogasianus Tarang
 Nim    :  21101200
+Matakuliah  :  cloud computing
+jamkuliah   :  19:50
+pulang      :  22:20
